@@ -3,7 +3,11 @@
 
 This E-Commerce Sales Dashboard provides a comprehensive view of sales performance across various dimensions, helping stakeholders to analyze and interpret key metrics effectively. The dashboard consists of multiple visualizations that represent different aspects of the sales data, offering a detailed and interactive analysis platform.
 
+
+
 ### Visualizations Includes
+
+![dashboard png](https://github.com/user-attachments/assets/52d2db70-da57-4f50-991b-055db29f5e46)
 
 1. **Key Metrics**:
    - **Sales**: Displays the total sales amount, which is 2 million units.
